@@ -1,0 +1,5 @@
+{
+  "name": "OMS_金山云现场工单处理系统",
+  "description": "金山云移动端运维管理系统首页，集成工单、告警、工具与值班功能。",
+  "requestFramePermissions": []
+}
